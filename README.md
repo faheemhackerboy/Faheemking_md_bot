@@ -43,7 +43,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/vajirabot1/KING-VAJIRA-Md)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vajirabot1/KING-VAJIRA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94766943622&env[MONGODB_URI]&&env[OWNER_NAME]=Vajira&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=VAJIRA&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=vajira&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/vajirabot1/KING-VAJIRA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94766943622&env[MONGODB_URI]&&env[OWNER_NAME]=MFaheem&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/31837d1353cc013ca46d9.jpg.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=VAJIRA&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=vajira&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
     
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
  
@@ -54,7 +54,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 ## SOCIAL MEDIA
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
+[![Youtube](https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg)](https://youtube.com/@gamingewingyt6216) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 
   ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/@gamingewingyt6216).***
   ***Click [`My Website`](http://vajira.com/)
@@ -69,7 +69,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 ## HELPERS
 [![USHANI](https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg?size=80)](https://github.com/dgxeon) | [![SAVIYA](https:https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg?size=100)](https://github.com/fantox001) | [![K ALPHA](https://telegra.ph/file/5e0bf1e4f7230ffe9cc37.jpg?size=109)](https://github.com/sampandey001) | [![DILSHAN](https://telegra.ph/file/4f43cf774e634e40129e5.jpg?size=80)](https://github.com/issa2001) | [![SUHAIL](https://telegra.ph/file/3b6537eb342b32de56558.jpg?size=80)](https://github.com/Prince-Mendiratta)
 ----|----|----|----|----
-[USHANI](https://wa.me/94767898887) | [SAVIYA](https://wa.me/+94757309293) | [KING ALPHA](https://wa.me/+94715264791) | [DILSHAN](https://wa.me/94773277849) | [SUHAIL](https://wa.me/919971606684)
+[MFAHEEM](https://wa.me/923090071604 ) | [SAVIYA](https://wa.me/+94757309293) | [KING ALPHA](https://wa.me/+94715264791) | [DILSHAN](https://wa.me/923090071604 ) | [SUHAIL](https://wa.me/919971606684)
 Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 ## Available Features
