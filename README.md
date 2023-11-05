@@ -16,14 +16,14 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+FAHEEM +WHATSAPP+BOT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+FAHEEM +KING +WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com/vajirabot1">
     <img [src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg](https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg)"  width="700px">
   </a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘿𝘼𝙍𝙆╺+𝙑𝘼𝙅𝙄𝙍𝘼+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙺𝙸𝙽𝙶+𝚅𝙰𝙹𝙸𝚁𝙰+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.𝙑𝘼𝙅𝙄𝙍𝘼;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝕍𝔸𝕁𝕀ℝ𝔸࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+FAHEEM╺+KING+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+FAHEEM+KING+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙒𝙈𝙍.FAHEEM;𝐌𝐑:+➥⏤͟͟͞͞★♛𝙁𝙖𝙝𝙚𝙚𝙢 𝙃𝙖𝙘𝙠𝙚𝙧 𝙗𝙤𝙮♛⏤͟͟͞͞★🌹)](https://git.io/typing-svg)
 
   
 <div align="center">    
@@ -94,7 +94,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 VAJIRA whatsapp bot is,
 
-   VAJIRA whatsapp bot is an easy to use whatsapp robot.   |  VAJIRA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+   Faheemking whatsapp bot is an easy to use whatsapp robot.   |  Faheemking whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
 
