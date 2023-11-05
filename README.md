@@ -16,7 +16,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+VAJIRA+WHATSAPP+BOT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+KING+FAHEEM +WHATSAPP+BOT)](https://git.io/typing-svg)
 
    <p align="center">
 <a href="https://github.com/vajirabot1">
@@ -39,7 +39,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
  
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/KING-VAJIRA-MD)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/KING-FAHEEM-MD)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/vajirabot1/KING-VAJIRA-Md)
 
@@ -48,13 +48,13 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
  
     
-<a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/e464e609e43eb3dfdc144.png" alt="Deploy on Railway" width="170px"></a>
+<a href="https://app.uffizzi.com/projects"><img src="https://telegra.ph/file/31837d1353cc013ca46d9.jpg" alt="Deploy on Railway" width="170px"></a>
 
 </details>
 
 ## SOCIAL MEDIA
 
-[![Youtube](https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg)](https://youtube.com/@gamingewingyt6216) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
+[![Youtube](https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg)](https://youtube.com/@gamingewingyt6216) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)](https://www.facebook.com/profile.php?id=100078146263566&mibextid=ZbWKwL) [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/F5dqn5Puus7ABP8WIfsbgF)
 
   ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtube.com/@gamingewingyt6216).***
   ***Click [`My Website`](http://vajira.com/)
@@ -69,7 +69,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 ## HELPERS
 [![USHANI](https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg?size=80)](https://github.com/dgxeon) | [![SAVIYA](https:https://telegra.ph/file/de89eaca3f5d74e912cc0.jpg?size=100)](https://github.com/fantox001) | [![K ALPHA](https://telegra.ph/file/5e0bf1e4f7230ffe9cc37.jpg?size=109)](https://github.com/sampandey001) | [![DILSHAN](https://telegra.ph/file/4f43cf774e634e40129e5.jpg?size=80)](https://github.com/issa2001) | [![SUHAIL](https://telegra.ph/file/3b6537eb342b32de56558.jpg?size=80)](https://github.com/Prince-Mendiratta)
 ----|----|----|----|----
-[MFAHEEM](https://wa.me/923090071604 ) | [SAVIYA](https://wa.me/+94757309293) | [KING ALPHA](https://wa.me/+94715264791) | [DILSHAN](https://wa.me/923090071604 ) | [SUHAIL](https://wa.me/919971606684)
+[MFAHEEM](https://wa.me/923090071604 ) | [FAHEEM ](https://wa.me/+923265746474) | [KING ALPHA](https://wa.me/+94715264791) | [DILSHAN](https://wa.me/923090071604 ) | [SUHAIL](https://wa.me/919971606684)
 Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
 ## Available Features
