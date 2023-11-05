@@ -9,7 +9,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 ## Available Features
 <div align="center">
-    ⏬<b>KING VAJIRA</b>⏬</b>
+    ⏬<b>FAHEEM  KING</b>⏬</b>
 
   
 <div align="center">
