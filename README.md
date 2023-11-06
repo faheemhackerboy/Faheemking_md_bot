@@ -32,7 +32,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 </p>
 
-[![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@faheemhackerboy/Faheem-king-king-md-7?v=1) 2 QR [![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/VAJIRA-MD-7?v=1) 
+[![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@faheemhackerboy/Faheem-king-king-md?v=1) 2 QR [![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://replit.com/@VajiraRathnayak/VAJIRA-MD-7?v=1) 
 
 
 
